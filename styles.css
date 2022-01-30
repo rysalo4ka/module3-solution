@@ -1,0 +1,35 @@
+.navbar {
+    padding-bottom:0!important;
+    
+}
+.container-fluid {
+    padding:0!important;
+}
+
+.navbar-collapse {
+    background-color: slategray;
+    
+}
+.nav-link {
+    border:1px solid black;
+}
+.navbar-brand {
+    margin-left: 2rem;
+    margin-bottom: 2rem;
+}
+.navbar-toggler {
+    margin-right: 2rem;
+    margin-bottom: 1.5rem;
+    margin-top:1rem;
+}
+.nav-link:hover {
+    background:wheat;
+    color:black!important;
+}
+.page-title {
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+#chicken {
+    background-color: slategray;
+}
